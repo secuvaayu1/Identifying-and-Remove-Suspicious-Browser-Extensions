@@ -75,4 +75,4 @@ It’s not a magic invisibility cloak — malware and phishing still work if you
 
 Setting up ProtonVPN felt like putting on sunglasses and walking into a spy movie. The IP change was instant, the encryption solid, and the speed drop small enough to ignore.
 
-If you care about privacy, use a VPN. If you don’t care… well, your ISP probably th
+If you care about privacy, use a VPN. If you don’t care… well, your ISP probably thanks you for the free data.
